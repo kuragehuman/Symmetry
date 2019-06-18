@@ -1,3 +1,4 @@
 *.out
 *.xml
+*.png
 .DS_Store
